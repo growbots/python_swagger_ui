@@ -1,0 +1,12 @@
+build/
+dist/
+.cache
+.coverage
+.eggs
+.tox
+*.egg-info/
+*.idea
+*.json
+*.pyc
+*.sw[a-z]
+*/_version.py
